@@ -1,0 +1,6 @@
+c:\users\adam\documents\visual studio 2015\Projects\MCHCSkrypty\MCHCSkrypty\bin\Debug\MCHCSkrypty.exe.config
+c:\users\adam\documents\visual studio 2015\Projects\MCHCSkrypty\MCHCSkrypty\bin\Debug\MCHCSkrypty.exe
+c:\users\adam\documents\visual studio 2015\Projects\MCHCSkrypty\MCHCSkrypty\bin\Debug\MCHCSkrypty.pdb
+c:\users\adam\documents\visual studio 2015\Projects\MCHCSkrypty\MCHCSkrypty\obj\Debug\MCHCSkrypty.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2015\Projects\MCHCSkrypty\MCHCSkrypty\obj\Debug\MCHCSkrypty.exe
+c:\users\adam\documents\visual studio 2015\Projects\MCHCSkrypty\MCHCSkrypty\obj\Debug\MCHCSkrypty.pdb
